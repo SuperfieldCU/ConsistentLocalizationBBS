@@ -4,6 +4,8 @@ This mod is part of a series intended to make subtle adjustments to the English 
 
 If you are using the [Hide Game Settings UI](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/30) mod by Saro, you should instead install [SuperfieldCU/ConsistentLocalizationBBSHGSUI](https://github.com/SuperfieldCU/ConsistentLocalizationBBSHGSUI), an alternate version of this mod.
 
+Tested and confirmed compatible with the Steam release! Untested on latest Epic Game Store version, but it should be compatible.
+
 ## Installation
 
 Mod can be installed using the OpenKH Mod Manager. Simply open the Mod Manager, click the green + button, type `SuperfieldCU/ConsistentLocalizationBBS` into the text box, then click `Install`.
